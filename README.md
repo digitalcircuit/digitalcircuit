@@ -13,6 +13,8 @@ You may know me from my contributions to these projects:
 * [💡 Actinic music-driven light controller](https://github.com/digitalcircuit/actinic) (C#) with [accompanying ActinicArduino firmware](https://github.com/digitalcircuit/ActinicArduino ) (C++)
 * 🛠 Smaller fixes to projects such as [Andúril 2](https://launchpad.net/flashlight-firmware ), [Bitlbee](https://www.bitlbee.org/ ), [InspIRCd](https://www.inspircd.org/ ), [Podman](https://podman.io/ ), [UnrealIRCd](https://www.unrealircd.org/ ), etc.
 
+Occasionally I'll post about random technology investigations, such as [ecobee thermostat inaccuracies](https://www.reddit.com/r/ecobee/comments/yjx8nw/heads_up_ecobee_misreads_temperature_wnearby/ ) or [fixing EasyAntiCheat on Linux](https://eoshelp.epicgames.com/s/question/0D54z00008mv43YCAQ/eos-sdks-64bit-linux-anticheat-module-fails-under-proton-with-unexpected-error-1-yet-32bit-linux-module-works-fine-on-same-system?language=en_US ).
+
 <!-- TODO: Finish portfolio
 Specific examples and more details [are on my portfolio page](https://<domain>/portfolio ).
 -->
