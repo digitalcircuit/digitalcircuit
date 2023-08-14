@@ -6,7 +6,8 @@ You may know me from my contributions to these projects:
 
 * [🗨️ New features and fixes to Quassel IRC](https://quassel-irc.org/ ) (C++/Qt)
 * [#️⃣ Collaboration within the global IRCv3 ecosystem](https://ircv3.net/ )
-* [🤖 Automatic SaltStack Linux deployment of Quassel IRC + Web + Search](https://github.com/digitalcircuit/salt-box-quassel ) (Salt, Bash)
+* [🤖 Automated Salt Linux deployment of Quassel IRC + Web + Search](https://github.com/digitalcircuit/salt-box-quassel ) (Salt YAML, Bash)
+* [🐘 Automated Salt Linux deployment of a Mastodon social media instance](https://github.com/digitalcircuit/salt-mastodon ) (Salt YAML, Bash)
 * [📶 Linux kernel debugging and regression tracking for OpenWRT](https://openwrt.org/ ) (C++, Bash)
 * [🐬 New firmware features for the Flipper Zero, e.g. battery charge limiting](https://flipperzero.one/ ) (C++)
 * [💡 Actinic music-driven light controller](https://github.com/digitalcircuit/actinic) (C#) with [accompanying ActinicArduino firmware](https://github.com/digitalcircuit/ActinicArduino ) (C++)
